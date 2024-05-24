@@ -1,0 +1,13 @@
+{
+    "name": "Julia Johnson",
+    "age": 22,
+    "city": "Seattle, WA",
+    "interests": [
+        "Sleeping",
+        "Music",
+        "Reading",
+        "Traveling",
+        "Cooking"
+    ],
+    "is_student": true
+}
